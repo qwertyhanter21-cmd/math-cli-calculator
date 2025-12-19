@@ -5,3 +5,5 @@ data/history.json
 .vscode/
 *.pyc
 .DS_Store
+logs/
+logs/*.log
