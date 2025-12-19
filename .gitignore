@@ -1,0 +1,7 @@
+﻿__pycache__/
+.pytest_cache/
+.venv/
+data/history.json
+.vscode/
+*.pyc
+.DS_Store
